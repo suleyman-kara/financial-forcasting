@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from skopt.space import Real, Integer
 
-st.title("Walmart Weekly Sales Forecast")
+st.title("Financial Forecasting")
 
 st.subheader("Load Data")
 with st.container(border=True):

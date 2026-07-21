@@ -43,7 +43,7 @@ narwhals==2.23.0
 nest-asyncio2==1.7.2
 numba==0.66.0
 numpy==2.4.6
-nvidia-nccl-cu12==2.30.7
+# nvidia-nccl-cu12==2.30.7
 packaging==26.2
 pandas==3.0.3
 parso==0.8.7
